@@ -1,0 +1,32 @@
+info: ::1 - - [24/May/2022:11:33:41 +0000] "GET /api/v1/ HTTP/1.1" 200 9 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [24/May/2022:12:04:23 +0000] "POST /api/v1/ HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [24/May/2022:12:05:15 +0000] "POST /api/v1/newUser HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [24/May/2022:12:07:33 +0000] "POST /api/v1/userController.newUser HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [24/May/2022:12:07:52 +0000] "POST /api/v1/user HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [24/May/2022:12:08:20 +0000] "PUT /api/v1/_id HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [24/May/2022:12:11:13 +0000] "PUT /api/v1/users HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [24/May/2022:12:13:15 +0000] "PUT /api/v1/getAllUsers HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [24/May/2022:14:24:05 +0000] "PUT /api/v1/%0A HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [24/May/2022:14:25:04 +0000] "GET /api/v1/ HTTP/1.1" 200 9 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [24/May/2022:14:59:56 +0000] "GET /api/v1/users/ HTTP/1.1" 200 39654 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [24/May/2022:15:04:39 +0000] "GET /api/v1/users HTTP/1.1" 200 39654 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [24/May/2022:15:05:34 +0000] "GET /api/v1/users/getAllUsers HTTP/1.1" 400 56 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [24/May/2022:15:06:22 +0000] "GET /api/v1/users HTTP/1.1" 200 39654 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [24/May/2022:15:06:45 +0000] "POST /api/v1/users HTTP/1.1" 500 55 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [24/May/2022:15:07:52 +0000] "POST /api/v1/users// HTTP/1.1" 500 55 "-" "PostmanRuntime/7.29.0"
+

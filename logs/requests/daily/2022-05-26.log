@@ -1,0 +1,24 @@
+info: ::1 - - [26/May/2022:02:22:12 +0000] "POST /api/v1/users HTTP/1.1" 201 192 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [26/May/2022:02:22:27 +0000] "GET /api/v1/users HTTP/1.1" 200 743 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [26/May/2022:02:22:57 +0000] "PUT /api/v1/users/628ee4540fa00621a44167d8 HTTP/1.1" 202 192 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [26/May/2022:02:23:20 +0000] "GET /api/v1/users HTTP/1.1" 200 743 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [26/May/2022:02:23:36 +0000] "DELETE /api/v1/users/628ee4540fa00621a44167d8 HTTP/1.1" 200 60 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [26/May/2022:02:24:06 +0000] "GET /api/v1/users HTTP/1.1" 200 608 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [26/May/2022:02:24:22 +0000] "GET /api/v1/users/628dcf187e567213ecbe3b64 HTTP/1.1" 400 56 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [26/May/2022:02:46:55 +0000] "GET /api/v1/users HTTP/1.1" 200 608 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [26/May/2022:02:47:33 +0000] "POST /api/v1/users HTTP/1.1" 201 192 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [26/May/2022:02:47:59 +0000] "GET /api/v1/users HTTP/1.1" 200 743 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [26/May/2022:02:48:52 +0000] "GET /api/v1/users/628eea450fa00621a44167e0 HTTP/1.1" 400 56 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [26/May/2022:02:55:28 +0000] "GET /api/v1/users/628eea450fa00621a44167e0 HTTP/1.1" 200 192 "-" "PostmanRuntime/7.29.0"
+

@@ -1,0 +1,30 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-24T09:13:18.271Z"}
+info: Connected to the database. {"timestamp":"2022-05-24T09:13:23.271Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-24T10:48:54.911Z"}
+info: Connected to the database. {"timestamp":"2022-05-24T10:48:57.816Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-24T12:07:01.085Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-24T12:07:29.472Z"}
+info: Connected to the database. {"timestamp":"2022-05-24T12:07:33.183Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2022-05-24T14:15:19.134Z"}
+info: Connected to the database. {"timestamp":"2022-05-24T14:15:23.827Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/users/getAllUsers 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2022-05-24T15:05:34.098Z"}
+error: 
+    status - 500 
+    message - ValidationError: "name" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-24T15:06:45.249Z"}
+error: 
+    status - 500 
+    message - ValidationError: "name" is required 
+    url - /api/v1/users// 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-05-24T15:07:52.332Z"}
